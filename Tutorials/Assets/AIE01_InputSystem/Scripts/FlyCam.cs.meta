@@ -1,3 +1,16 @@
 fileFormatVersion: 2
 guid: 64632c48f1964cc7a3b7c9abd55bf180
-timeCreated: 1693354585
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - horizontalMoveAction: {fileID: -4975697451883154397, guid: c2cc672a040f3d14582faa0ad1e46f0b, type: 3}
+  - verticalMoveAction: {fileID: -21976076574306434, guid: c2cc672a040f3d14582faa0ad1e46f0b, type: 3}
+  - focusAction: {fileID: -1122170555401647705, guid: c2cc672a040f3d14582faa0ad1e46f0b, type: 3}
+  - lookAction: {fileID: 245366424798149453, guid: c2cc672a040f3d14582faa0ad1e46f0b, type: 3}
+  - sprintAction: {fileID: -247625124714636775, guid: c2cc672a040f3d14582faa0ad1e46f0b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
